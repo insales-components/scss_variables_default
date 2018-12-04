@@ -1,0 +1,13 @@
+{
+  "name": "scss_variables_default",
+  "version": "1.0.0",
+  "description": "SCSS variables_default",
+  "author": "LiquidHub.ru",
+  "type": "scss_variables_default",
+  "homepage": "https://github.com/insales-components/scss_variables_default",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
